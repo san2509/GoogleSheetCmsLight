@@ -2,7 +2,7 @@ var app = new Vue({
   el: "#app",
   data: {
     sheetUrl:
-      "https://docs.google.com/spreadsheets/d/1DRxADFiW4fjf_3vApWt2m4Nv3K0iEljvV2l4TJeaBNk/pubhtml",
+      "https://docs.google.com/spreadsheets/d/1drB6YgXYQOfM2Ibo3KuxNYyrZLLxEHXg4162nbATxB0/pubhtml",
     content: {},
     loading: true,
     options: {
